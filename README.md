@@ -119,13 +119,3 @@ me:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f172a&height=150&section=footer" width="100%"/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" alt="Footer Banner" width="100%">
-  </picture>
-</div>
-</p>
-
