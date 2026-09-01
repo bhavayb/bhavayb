@@ -5,21 +5,21 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%">
   </picture>
 
-  <h1>Hey there, I'm [YOUR_NAME] 👋</h1>
+  <h1>Hey there, I'm [Bhavay Batra] 👋</h1>
 
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/[bhavayb]">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Creative+Designer;Open+Source+Contributor" alt="Typing Text Animation" />
   </a>
   
   <br>
 
-  <a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=FF69B4&logoColor=white" alt="Followers">
+  <a href="https://github.com/[bhavayb]?tab=followers">
+    <img src="https://img.shields.io/github/followers/[bhavayb]?label=Followers&style=for-the-badge&color=FF69B4&logoColor=white" alt="Followers">
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&color=EF93C4&logoColor=white" alt="Stars">
+  <a href="https://github.com/[bhavayb]">
+    <img src="https://img.shields.io/github/stars/[bhavayb]?style=for-the-badge&color=EF93C4&logoColor=white" alt="Stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=F8BBD0&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=[bhavayb]&style=for-the-badge&color=F8BBD0&label=Profile+Views" alt="Profile Views">
 </div>
 
 <br><br>
@@ -33,13 +33,13 @@
         <ul>
           <li>🌱 <strong>Currently learning:</strong> Advanced AI, System Architecture, & UI/UX Design</li>
           <li>🎯 <strong>My goals:</strong> Contribute more to open-source and build impactful tech tools</li>
-          <li>💡 <strong>Fun fact:</strong> [YOUR_FUN_FACT]</li>
-          <li>📫 <strong>Reach me at:</strong> <a href="mailto:[YOUR_EMAIL]">[YOUR_EMAIL]</a></li>
+          <li>💡 <strong>Fun fact:</strong> I somehow turned my job hunt into a software project.</li>
+          <li>📫 <strong>Reach me at:</strong> <a href="mailto:batrabhavay79@gmail.com">batrabhavay79@gmail.com</a></li>
         </ul>
         <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
       </td>
       <td width="35%" align="center" valign="middle">
-        <img src="[YOUR_IMAGE_URL]" width="100%" alt="Profile Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <img src="https://avatars.githubusercontent.com/u/196516919?v=4" width="100%" alt="Profile Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
       </td>
     </tr>
   </table>
